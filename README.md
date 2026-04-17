@@ -1,14 +1,13 @@
 # GreatHost 自动续期状态
 
-🚨 **GreatHost 脚本报错**
+🎉 **GreatHost 续期成功**
 
 📛 服务器名称: nerdman
-❌ 故障: `Message: 
-Stacktrace:
-#0 0x5623786e7a6a <unknown>
-#1 0x5623780f6ab5 <unknown>
-#2 0x562378149676 <unk`
-🌐 代理状态: 已尝试直连
-📅 时间: 2026/04/17 10:03:40
+🆔 ID: `a52cbe27-eae5-4ea2-ae52-2b0327dff5e6`
+⏰ 增加时间: 91 ➔ 103h
+🚀 服务器状态: 🟢 Running
+💡 提示: Servidor gratuito renovado correctamente
+🌐 落地 IP: `132.196.94.38`
+📅 时间: 2026/04/17 21:06:47
 
-> 最近更新: 2026/04/17 10:03:40
+> 最近更新: 2026/04/17 21:06:47
