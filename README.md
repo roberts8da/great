@@ -1,13 +1,13 @@
 # GreatHost 自动续期状态
 
-🚨 **GreatHost 脚本报错**
+🎉 **GreatHost 续期成功**
 
 📛 服务器名称: nerdman
-❌ 故障: `TimeoutException: Message: script timeout
-  (Session info: chrome=148.0.7778.178)
-Stacktrace:
-#0 0x557c2fae216a &lt;un`
-🌐 代理状态: 已尝试直连/Stealth
-📅 时间: 2026/06/11 11:22:21
+🆔 ID: `a52cbe27-eae5-4ea2-ae52-2b0327dff5e6`
+⏰ 增加时间: 90 ➔ 102h
+🚀 服务器状态: 🟢 Running
+💡 提示: Servidor gratuito renovado correctamente
+🌐 落地 IP: `20.83.158.247`
+📅 时间: 2026/06/11 23:44:42
 
-> 最近更新: 2026/06/11 11:22:21
+> 最近更新: 2026/06/11 23:44:42
