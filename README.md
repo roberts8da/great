@@ -1,13 +1,13 @@
 # GreatHost 自动续期状态
 
-⚠️ **GreatHost 续期未生效**
+🎉 **GreatHost 续期成功**
 
 📛 服务器名称: nerdman
 🆔 ID: `a52cbe27-eae5-4ea2-ae52-2b0327dff5e6`
-🚀 服务器状态: ❓ unknown
-⏰ 剩余时间: 102h
-💡 提示: Unexpected non-whitespace character after JSON at position 108392
-🌐 落地 IP: `135.232.200.194`
-📅 时间: 2026/06/14 11:25:39
+⏰ 增加时间: 99 ➔ 111h
+🚀 服务器状态: 🟢 Running
+💡 提示: Servidor gratuito renovado correctamente
+🌐 落地 IP: `135.232.201.81`
+📅 时间: 2026/06/16 14:13:47
 
-> 最近更新: 2026/06/14 11:25:39
+> 最近更新: 2026/06/16 14:13:47
